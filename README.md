@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Project Designed by [Ana Clara](https://www.linkedin.com/in/anacriando/) / [https://www.linkedin.com/in/anacriando/](https://www.linkedin.com/in/anacriando/)
+Development by [Guilherme Zanin](https://www.linkedin.com/in/guilherme-zanin-37617381/) / [https://www.linkedin.com/in/guilherme-zanin-37617381/](https://www.linkedin.com/in/guilherme-zanin-37617381/)
 
 ## Getting Started
 
