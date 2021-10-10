@@ -1,7 +1,7 @@
-![Ana Clara](https://img.shields.io/badge/Design-Ana%20Clara-orange)
-#### Project Designed by [Ana Clara](https://www.linkedin.com/in/anacriando/) / [https://www.linkedin.com/in/anacriando/](https://www.linkedin.com/in/anacriando/)
+![Ana Clara](https://img.shields.io/badge/Design-Ana%20Clara-orange)![Gui Zanin](https://img.shields.io/badge/Developer-Guilherme%20Zanin-orange)
 
-#### Developer by [Guilherme Zanin](https://www.linkedin.com/in/guilherme-zanin-37617381/) / [https://www.linkedin.com/in/guilherme-zanin-37617381/](https://www.linkedin.com/in/guilherme-zanin-37617381/)
+[https://www.linkedin.com/in/anacriando/](https://www.linkedin.com/in/anacriando/)
+[https://www.linkedin.com/in/guilherme-zanin-37617381/](https://www.linkedin.com/in/guilherme-zanin-37617381/)
 
 ## 🚀 Tecnologies used:
 
